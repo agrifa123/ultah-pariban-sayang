@@ -1319,6 +1319,12 @@ o @keyframes bannar_come {
 	top: 100%;
 	opacity: 0.5;
 	z-index: 9999;
+	max-width: 100%;
+	-webkit-transform: translate(0px, -500px);
+	-moz-transform: translate(0px, -500px);
+	-o-transform: translate(0px, -500px);
+	-ms-transform: translate(0px, -500px);
+	transform: translate(0px, -500px);
 }
 
 #b2,
@@ -1328,6 +1334,12 @@ o @keyframes bannar_come {
 	top: 100%;
 	opacity: 0.5;
 	z-index: 9999;
+	max-width: 100%;
+	-webkit-transform: translate(0px, -500px);
+	-moz-transform: translate(0px, -500px);
+	-o-transform: translate(0px, -500px);
+	-ms-transform: translate(0px, -500px);
+	transform: translate(0px, -500px);
 }
 
 #b3,
@@ -1337,6 +1349,12 @@ o @keyframes bannar_come {
 	top: 100%;
 	opacity: 0.5;
 	z-index: 9999;
+	max-width: 100%;
+	-webkit-transform: translate(0px, -500px);
+	-moz-transform: translate(0px, -500px);
+	-o-transform: translate(0px, -500px);
+	-ms-transform: translate(0px, -500px);
+	transform: translate(0px, -500px);
 }
 
 #b4,
@@ -1346,6 +1364,12 @@ o @keyframes bannar_come {
 	top: 100%;
 	opacity: 0.5;
 	z-index: 9999;
+	max-width: 100%;
+	-webkit-transform: translate(0px, -500px);
+	-moz-transform: translate(0px, -500px);
+	-o-transform: translate(0px, -500px);
+	-ms-transform: translate(0px, -500px);
+	transform: translate(0px, -500px);
 }
 
 #b5,
@@ -1355,6 +1379,12 @@ o @keyframes bannar_come {
 	top: 100%;
 	opacity: 0.5;
 	z-index: 9999;
+	max-width: 100%;
+	-webkit-transform: translate(0px, -500px);
+	-moz-transform: translate(0px, -500px);
+	-o-transform: translate(0px, -500px);
+	-ms-transform: translate(0px, -500px);
+	transform: translate(0px, -500px);
 }
 
 #b6,
@@ -1364,6 +1394,12 @@ o @keyframes bannar_come {
 	top: 100%;
 	opacity: 0.5;
 	z-index: 9999;
+	max-width: 100%;
+	-webkit-transform: translate(0px, -500px);
+	-moz-transform: translate(0px, -500px);
+	-o-transform: translate(0px, -500px);
+	-ms-transform: translate(0px, -500px);
+	transform: translate(0px, -500px);
 }
 
 #b7,
@@ -1373,6 +1409,12 @@ o @keyframes bannar_come {
 	top: 100%;
 	opacity: 0.5;
 	z-index: 9999;
+	max-width: 100%;
+	-webkit-transform: translate(0px, -500px);
+	-moz-transform: translate(0px, -500px);
+	-o-transform: translate(0px, -500px);
+	-ms-transform: translate(0px, -500px);
+	transform: translate(0px, -500px);
 }
 
 #b8,
@@ -1382,6 +1424,12 @@ o @keyframes bannar_come {
 	top: 100%;
 	opacity: 0.5;
 	z-index: 9999;
+	max-width: 100%;
+	-webkit-transform: translate(0px, -500px);
+	-moz-transform: translate(0px, -500px);
+	-o-transform: translate(0px, -500px);
+	-ms-transform: translate(0px, -500px);
+	transform: translate(0px, -500px);
 }
 
 .balloons-rotate-behaviour-one {
