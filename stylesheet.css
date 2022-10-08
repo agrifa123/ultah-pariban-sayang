@@ -1315,57 +1315,89 @@ o @keyframes bannar_come {
 #b1,
 #b11 {
 	background-image: url('b1.png');
-	max-width: 50%;
-	height: 30%;
+	max-width: 100%;
+	-webkit-transform: translate(0px, -500px);
+	-moz-transform: translate(0px, -500px);
+	-o-transform: translate(0px, -500px);
+	-ms-transform: translate(0px, -500px);
+	transform: translate(0px, -500px);
 }
 
 #b2,
 #b22 {
 	background-image: url('b2.png');
-	max-width: 50%;
-	height: 30%;
+	max-width: 100%;
+	-webkit-transform: translate(0px, -500px);
+	-moz-transform: translate(0px, -500px);
+	-o-transform: translate(0px, -500px);
+	-ms-transform: translate(0px, -500px);
+	transform: translate(0px, -500px);
 }
 
 #b3,
 #b33 {
 	background-image: url('b3.png');
-	max-width: 50%;
-	height: 30%;
+	max-width: 100%;
+	-webkit-transform: translate(0px, -500px);
+	-moz-transform: translate(0px, -500px);
+	-o-transform: translate(0px, -500px);
+	-ms-transform: translate(0px, -500px);
+	transform: translate(0px, -500px);
 }
 
 #b4,
 #b44 {
 	background-image: url('b4.png');
-	max-width: 50%;
-	height: 30%;
+	max-width: 100%;
+	-webkit-transform: translate(0px, -500px);
+	-moz-transform: translate(0px, -500px);
+	-o-transform: translate(0px, -500px);
+	-ms-transform: translate(0px, -500px);
+	transform: translate(0px, -500px);
 }
 
 #b5,
 #b55 {
 	background-image: url('b5.png');
-	max-width: 50%;
-	height: 30%;
+	max-width: 100%;
+	-webkit-transform: translate(0px, -500px);
+	-moz-transform: translate(0px, -500px);
+	-o-transform: translate(0px, -500px);
+	-ms-transform: translate(0px, -500px);
+	transform: translate(0px, -500px);
 }
 
 #b6,
 #b66 {
 	background-image: url('b6.png');
-	max-width: 50%;
-	height: 30;
+	max-width: 100%;
+	-webkit-transform: translate(0px, -500px);
+	-moz-transform: translate(0px, -500px);
+	-o-transform: translate(0px, -500px);
+	-ms-transform: translate(0px, -500px);
+	transform: translate(0px, -500px);
 }
 
 #b7,
 #b77 {
 	background-image: url('b7.png');
-	max-width: 50%;
-	height: 30%;
+	max-width: 100%;
+	-webkit-transform: translate(0px, -500px);
+	-moz-transform: translate(0px, -500px);
+	-o-transform: translate(0px, -500px);
+	-ms-transform: translate(0px, -500px);
+	transform: translate(0px, -500px);
 }
 
 #b8,
 #b88 {
 	background-image: url('b8.png');
-	max-width: 50%;
-	height: 30%;
+	max-width: 100%;
+	-webkit-transform: translate(0px, -500px);
+	-moz-transform: translate(0px, -500px);
+	-o-transform: translate(0px, -500px);
+	-ms-transform: translate(0px, -500px);
+	transform: translate(0px, -500px);
 }
 
 .balloons-rotate-behaviour-one {
