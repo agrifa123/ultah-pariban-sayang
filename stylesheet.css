@@ -1315,48 +1315,56 @@ o @keyframes bannar_come {
 #b1,
 #b11 {
 	background-image: url('b1.png');
+	max-width: 100px;
 
 }
 
 #b2,
 #b22 {
 	background-image: url('b2.png');
+	max-width: 100px;
 
 }
 
 #b3,
 #b33 {
 	background-image: url('b3.png');
+	max-width: 100px;
 
 }
 
 #b4,
 #b44 {
 	background-image: url('b4.png');
+	max-width: 100px;
 	
 }
 
 #b5,
 #b55 {
 	background-image: url('b5.png');
+	max-width: 100px;
 
 }
 
 #b6,
 #b66 {
 	background-image: url('b6.png');
+	max-width: 100px;
 
 }
 
 #b7,
 #b77 {
 	background-image: url('b7.png');
+	max-width: 100px;
 
 }
 
 #b8,
 #b88 {
 	background-image: url('b8.png');
+	max-width: 100px;
 
 }
 
@@ -1591,8 +1599,8 @@ o @keyframes bannar_come {
 
 
 /*controlling tablet width*/
-/*@media only screen and (max-width: 120px) {
+@media only screen and (max-width: 120px) {
 	.container {
 		-webkit-transform: scale(0.9);
 	}
-}*/
+}
