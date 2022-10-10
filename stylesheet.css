@@ -11,6 +11,9 @@ body {
 
 .container {
 	display: none;
+        width: 100%;
+        min-height: 200px;
+
 }
 
 .peach {
